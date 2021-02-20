@@ -207,7 +207,7 @@
  
      Paste the contents of the file(static.yaml) copied in the first step to file nginx-critical.yaml.
  
-     Move/copy the nginx-critical.yaml.yaml to /etc/kubernetes/manifests
+     Move/copy the nginx-critical.yaml to /etc/kubernetes/manifests
  
      cp nginx-critical.yaml /etc/kubernetes/manifests
  
